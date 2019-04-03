@@ -1,6 +1,7 @@
 # Library-Management-System
 
-The above python code is written libraries like PyQt5 which is mainly for GUI and sqlite3 for database.
+The above python code is written using libraries: PyQt5 which is mainly for GUI, sqlite3 for database, sys and time.
+Download the PyQt5 libraries before running the code. 
 This is a mini-project, can be used for your college submissions. 
 This project has functions like Add Book, Delete Book, Return Book, Sell Book, Student Details, Payment Details,
 Search Book, Buy/Rent Book, Update Book and New User.
